@@ -42,11 +42,14 @@
 
 ## 参考にしたサイト
 
-- xxx
+- CSS のグラデーション（linear-gradient）の使い方を総まとめ！
+- https://saruwakakun.com/html-css/basic/linear-radial-gradient
+- linear-gradient() で斜線を表現する際のアンチエイリアス
+- https://www.will3in.co.jp/frontend-blog/article/antialiasing-linear-gradient-oblique-line/
 
 ## 更新履歴
 
-- 2022/mm/dd 初版 作成完了
+- 2022/5/17 調整完了
 
 ## 環境・使い方
 
